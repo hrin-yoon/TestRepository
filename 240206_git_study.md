@@ -1,4 +1,5 @@
 #GitStudy
+<<<<<<< HEAD
 
 >>> git bash 설치
   
@@ -24,3 +25,5 @@
 
 
 이건 되돌리기를 위한 방법이다이. 
+=======
+>>>>>>> parent of 725aee5 (Update 240206_git_study.md)
