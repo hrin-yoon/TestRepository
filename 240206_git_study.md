@@ -22,7 +22,6 @@
   2. git stash
   3. git pull
 
-
 - 로컬 저장소 파일 특정 버전으로 되돌리기
   1. git log (해쉬번호 확인/ 빠져나오기 q)
   2. git reset --hard 해쉬
