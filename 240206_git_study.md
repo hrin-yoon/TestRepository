@@ -21,3 +21,6 @@
   1. git remote update
   2. git stash
   3. git pull
+
+
+이건 되돌리기를 위한 방법이다이. 
