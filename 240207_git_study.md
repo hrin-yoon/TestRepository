@@ -9,6 +9,9 @@
 - git add와 commit 을 한번에 
 1. git commit -am ""
 
+- github 에서 새로운 프로젝트 다운 
+1. git clone 프로젝트원격주소
+
 Git branch ? 
 개발을 하다보면 코드를 여려개로 복사해야 하는 일이 자주 발생한다. 브랜치는 원래 코드와 상관없이 독힙적으로 개발을 진행 할 수 있도록 해준다. 협업시 사용할 경우 좋음 
 (브랜치는 분기된 차원으로 프로젝트를 하나이상의 버전으로 관리할 때 사용 : 실배포용, 테스트 서버용 등 )
@@ -52,3 +55,6 @@ HEAD?
 
 - 합친 브랜치 삭제
 1. git branch -d new-teams
+
+- 로컬의 branch를 원격 저장소로 push
+1. git push --set-upstream orgin "브랜치명"
