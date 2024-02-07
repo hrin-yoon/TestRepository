@@ -58,3 +58,8 @@ HEAD?
 
 - 로컬의 branch를 원격 저장소로 push
 1. git push --set-upstream orgin "브랜치명"
+
+-원격의 branch를 로컬 저장소로 가져오기
+1. git fetch
+2. git branch -a(브랜치 목록 조회)
+3. git switch -t origin/연동할 브랜치명 
